@@ -1,15 +1,39 @@
 {
-  "name": "react-native-facebook-login",
-  "version": "1.6.0",
-  "description": "React Native wrapper for native iOS Facebook SDK login button and manager",
-  "main": "index",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
+  "_from": "github:jsworx/react-native-facebook-login",
+  "_id": "react-native-facebook-login@1.6.0",
+  "_inBundle": false,
+  "_integrity": "sha1-o2EXl+DZiGqKsPwsNDE3gTDN7cA=",
+  "_location": "/react-native-facebook-login",
+  "_phantomChildren": {},
+  "_requested": {
     "type": "git",
-    "url": "https://github.com/magus/react-native-facebook-login"
+    "raw": "jsworx/react-native-facebook-login",
+    "rawSpec": "jsworx/react-native-facebook-login",
+    "saveSpec": "github:jsworx/react-native-facebook-login",
+    "fetchSpec": null,
+    "gitCommittish": "master"
   },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "github:jsworx/react-native-facebook-login#4a2e667a016a9196311a3dde597cc1b46112fd74",
+  "_spec": "jsworx/react-native-facebook-login",
+  "_where": "/Users/jamessimpson/Git/methodworx/mobileapp/PizzaExpress%20-%20Mobile%20App/MobileApp",
+  "author": {
+    "name": "Noah"
+  },
+  "bugs": {
+    "url": "https://github.com/magus/react-native-facebook-login/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "itypeof": "^1.1.2"
+  },
+  "deprecated": false,
+  "description": "React Native wrapper for native iOS Facebook SDK login button and manager",
+  "gitHead": "4a2e667a016a9196311a3dde597cc1b46112fd74",
+  "homepage": "https://github.com/magus/react-native-facebook-login",
   "keywords": [
     "react",
     "react-component",
@@ -21,18 +45,20 @@
     "login",
     "sdk"
   ],
-  "author": "Noah",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/magus/react-native-facebook-login/issues"
-  },
-  "homepage": "https://github.com/magus/react-native-facebook-login",
+  "main": "index",
+  "name": "react-native-facebook-login",
   "peerDependencies": {
     "react-native": ">=0.26.2",
     "react": ">=15.0.2 || ^16.0.0-0",
     "prop-types": "^15.5.10"
   },
-  "dependencies": {
-    "itypeof": "^1.1.2"
-  }
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/magus/react-native-facebook-login.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.6.0"
 }
